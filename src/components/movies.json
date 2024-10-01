@@ -1,0 +1,41 @@
+[
+    {   "id": 1,
+        "title": "The Avengers",
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army.",
+        "posterURL": "https://m.media-amazon.com/images/I/71Sb4AfzGTL._AC_UF894,1000_QL80_.jpg",
+        "rating": 4.0,
+        "trailerURL": "https://www.youtube.com/embed/eOrNdBpGMv8"
+    },
+    {
+        "id": 2,
+        "title": "The Silence of the Lambs",
+        "description": "A young FBI cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer.",
+        "posterURL": "https://s2.dmcdn.net/v/VV5Yp1bdltwmkut_y/x1080",
+        "rating": 3.6,
+        "trailerURL": "https://www.youtube.com/embed/W6Mm8Sbe__o"
+    },
+    {
+        "id": 3,
+        "title": "Jurassic Park",
+        "description": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+        "posterURL": "https://upload.wikimedia.org/wikipedia/en/9/93/Jurassic_Park_%28franchise_logo%29.png",
+        "rating": 6.1,
+        "trailerURL": "https://www.youtube.com/embed/lc0UehYemQA"
+    },
+    {
+        "id": 4,
+        "title": "The Lion King",
+        "description": "Lion cub Simba flees his kingdom after the death of his father, but returns as an adult to reclaim his throne.",
+        "posterURL": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D3429E72F594CA84B8448FE5F8BDE1773505217A9541297CB1E85719EC8D686C/scale?width=1200&aspectRatio=1.78&format=webp",
+        "rating": 2.5,
+        "trailerURL": "https://www.youtube.com/embed/7TavVZMewpY"
+    },
+    {
+        "id": 5,
+        "title": "The Social Network",
+        "description": "As Harvard students create the social networking site that would become known as Facebook, they are caught up in a whirlwind of betrayal, lawsuits, and fame.",
+        "posterURL": "https://i.ytimg.com/vi/lB95KLmpLR4/maxresdefault.jpg",
+        "rating": 1.7,
+        "trailerURL": "https://www.youtube.com/embed/lB95KLmpLR4"
+    }
+]
